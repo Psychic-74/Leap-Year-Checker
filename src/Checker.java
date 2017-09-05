@@ -33,7 +33,6 @@ public class Checker {
             System.out.println("\n"+"The Year is not a leap year");
         }
    
-        return;
     }
     
     // Method to check Leap Year
