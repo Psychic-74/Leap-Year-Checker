@@ -1,0 +1,8 @@
+*.xml
+build/
+*.mf
+*.jar
+test/
+nbproject/
+.DS_Store
+src/*.form
